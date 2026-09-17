@@ -10,7 +10,6 @@ frontend/.next/
 frontend/out/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -20,11 +19,9 @@ frontend/out/
 Thumbs.db
 
 # Environment
-.env
-.env.local
-.env.production
 deployed.json
 
 # Logs
 *.log
 pr.md
+config.bat
